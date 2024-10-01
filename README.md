@@ -1,5 +1,7 @@
 # Task Tracker CLI
 
+project page URL : https://roadmap.sh/projects/task-tracker
+
 Task Tracker is a command-line interface (CLI) application that allows you to manage and track your tasks. You can add, update, delete, and list tasks, as well as mark them as in progress or done. All tasks are stored in a JSON file.
 
 **ترکر تسک** یک برنامه واسط خط فرمان  است که به شما امکان می‌دهد وظایف خود را مدیریت و پیگیری کنید. شما می‌توانید وظایف جدید اضافه کنید، وظایف موجود را به‌روزرسانی کنید، حذف کنید و لیست کنید، همچنین آن‌ها را به عنوان در حال انجام یا انجام شده علامت‌گذاری کنید. همهٔ وظایف در یک فایل JSON ذخیره می‌شوند.
